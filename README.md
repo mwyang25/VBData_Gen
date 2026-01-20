@@ -15,7 +15,7 @@ This repository contains helper functions used in the creation and analysis of t
 - `checkxmo.py`: a python script that reads the valence properties from an xmvb output file and organizes them into a csv file.
 
 `data/`:
-- `res.csv`: a dataset of single-bond valence bond properties of small organic molecules.
+- `res.csv`: a dataset of unique single-bond valence bond properties of small organic molecules.
 
 
 
